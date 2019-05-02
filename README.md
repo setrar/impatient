@@ -6,8 +6,11 @@
 The [AL][1-3] refer to Martin Odersky's Scala levels.
 
 ***The Basics (A1)***
-Control Structures and Functions (A1)
-Arrays (A1)
+
+***Control Structures and Functions (A1)***
+
+***Arrays (A1)***
+
 Maps and Tuples (A1)
 Classes (A1)
 Objects (A1)
